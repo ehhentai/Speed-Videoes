@@ -19,3 +19,6 @@
 
 1. 浏览器安装 [Tampermonkey](https://www.tampermonkey.net/) 或 Violentmonkey 扩展
 2. 点击下面的链接一键安装（或复制链接到扩展的「添加新脚本 → 从 URL 安装」）
+
+##  注意
+- **开源仓库**：欢迎每一个看到或有需要的人来丰富完善代码
